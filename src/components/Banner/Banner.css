@@ -1,0 +1,10 @@
+.banner{
+    background-image: url('banner-img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+
+.intro{
+    margin-top: 120px;
+}

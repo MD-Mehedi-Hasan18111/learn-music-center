@@ -1,0 +1,13 @@
+[
+	{"intrument":"Guiter","price":50,"capacity":30,"img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Guitarist_girl.jpg/220px-Guitarist_girl.jpg"},
+	{"intrument":"Piano","price":70,"capacity":10,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLR32EdQ6EkgkCqCOL-8vvqJzJ_bRs_H0chg&usqp=CAU"},
+	{"intrument":"Keyboard","price":65,"capacity":5,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH47KEjNoWOVNanv36wa1nhUHsClKc8dlxeA&usqp=CAU"},
+	{"intrument":"Violin","price":120,"capacity":10,"img":"https://www.teahub.io/photos/full/41-412987_violin-wallpaper-785-data-src-violin-wallpaper-hd.jpg"},
+	{"intrument":"Tabla","price":40,"capacity":15,"img":"https://media.istockphoto.com/videos/hands-playing-tabla-india-video-id468681426?s=640x640"},
+	{"intrument":"Drums","price":65,"capacity":10,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYi333pH4m4AfiXAGLG87oLnZORbfyTVyYbQ&usqp=CAU"},
+	{"intrument":"Flute","price":80,"capacity":40,"img":"https://data.whicdn.com/images/342569780/original.jpg"},
+	{"intrument":"Harp","price":50,"capacity":3,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYOZREB4c8MM7_cmTiJuNt3am12bz1W92C9Q&usqp=CAU"},
+	{"intrument":"Sitar","price":70,"capacity":7,"img":"https://i.etsystatic.com/18564205/r/il/a7fe56/1737515970/il_fullxfull.1737515970_2r5t.jpg"},
+	{"intrument":"Cello","price":90,"capacity":15,"img":"https://i1.pickpik.com/photos/866/422/358/cello-strings-stringed-instrument-wood-preview.jpg"},
+	{"intrument":"Saxophone","price":100,"capacity":15,"img":"https://www.lifesavvy.com/p/uploads/ls20-gen/2021/04/reviewgeek-c13a2106.jpg?width=1200"}
+]
